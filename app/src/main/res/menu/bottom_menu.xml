@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="never"
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="@string/title_home" />
+    <item
+        app:showAsAction="never"
+        android:id="@+id/nav_cat"
+        android:icon="@drawable/ic_cate"
+        android:title="@string/title_category" />
+    <item
+        app:showAsAction="never"
+        android:id="@+id/nav_reason"
+        android:icon="@drawable/ic_reason"
+        android:title="@string/title_reason" />
+    <item
+        app:showAsAction="never"
+        android:id="@+id/nav_voucher"
+        android:icon="@drawable/voucher"
+        android:title="@string/title_voucher" />
+    <item
+        app:showAsAction="never"
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/title_profile" />
+    <!-- Other menu items -->
+</menu>

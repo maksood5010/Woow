@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Woow</string>
+    <string name="title_home">Home</string>
+    <string name="title_category">Categories</string>
+    <string name="title_reason">Reason</string>
+    <string name="title_voucher">Voucher</string>
+    <string name="title_profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search…</string>
+</resources>

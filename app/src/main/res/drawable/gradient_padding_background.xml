@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset
+            android:insetLeft="8dp"
+            android:insetTop="8dp"
+            android:insetRight="8dp"
+            android:insetBottom="8dp">
+            <shape android:shape="rectangle">
+                <gradient
+                    android:angle="90"
+                    android:endColor="@color/red"
+                    android:startColor="@color/transparent" />
+                <corners android:radius="24dp" />
+            </shape>
+        </inset>
+    </item>
+</layer-list>
